@@ -1,0 +1,70 @@
+.fondo {
+    background: url('../img/design1_image2.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 50% auto ;
+    background-position: top;
+
+
+}
+
+
+h1 {
+    text-align: center;
+    position: relative;
+    font-family: 'Comic Neue';
+    font-weight: bold;
+    font-size: xx-large;
+    color: white;
+
+}
+
+span {
+    background-color: hsl(0 100% 80% / .6);
+}
+
+.caja1 {
+    background-color: crimson;
+    position: absolute;
+    top: 320px;
+    left: 25%;
+    height: 60px;
+    width: 50%;
+    text-align: center;
+    font-family: 'Comic Neue';
+    color: white;
+    font-size: xx-large;
+}
+
+.logo {
+    position: relative;
+    top: 270px;
+    left: 25%;
+}
+
+
+.contenido {
+    font-family: "Comic Neue";
+    position: relative;
+    top: 120px;
+    left: 40%;
+    max-width: 35%;
+    padding-bottom: 15px;
+}
+
+.links {
+    font-family: "Comic Neue";
+    position: relative;
+    left: 57%;
+    display: inline-block;
+    background-color: crimson;
+    color: white;
+    font-weight: bolder;
+    font-size: x-large;
+
+}
+
+
+a {
+    color: white;
+    background-color: grey;
+}
